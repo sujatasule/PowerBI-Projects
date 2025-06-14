@@ -19,4 +19,10 @@ DISTINCT('Metrix'[Metrix Fields]).
 DISTINCT('Metrix'[Metrix Order]).
 
 
-Dataset Used in this project is available on Data Tutorial YouTube channel. 
+Dataset used in this projects is available on Data Tutorial YouTube channel. 
+
+
+![Adidas Sales Analysis](https://github.com/user-attachments/assets/3d04e719-ba29-40a1-950c-158eaacf9336)
+
+
+![BlinkIt_Analysis](https://github.com/user-attachments/assets/f9a1b470-f7d2-4c12-a6a2-baf891c9d478)
