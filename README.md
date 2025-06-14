@@ -1,4 +1,4 @@
-Both the project uses Microsoft Power BI Desktop to Transform, load and visualize the data.
+Both the projects use Microsoft Power BI Desktop to Transform, load and visualize the data.
 Adidas Sales Data analysis is basic project to learn.
 Blinkit- Online grocery shopping in India. Following DAX functions are used in this project.
 
